@@ -1,4 +1,4 @@
-import CV from "../../assets/cv.pdf";
+import CV from "../../assets/CV.pdf";
 import heroImg from "../../assets/Design uten navn.png";
 import githubDark from "../../assets/github-dark.svg";
 import githubLight from "../../assets/github-light.svg";
