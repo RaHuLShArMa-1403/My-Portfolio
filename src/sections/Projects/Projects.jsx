@@ -1,7 +1,7 @@
 import React from "react";
-import freshBurger from "../../assets/fresh-burger.png";
-import hipsster from "../../assets/hipsster.png";
-import viberr from "../../assets/viberr.png";
+import blog from "../../assets/blog.png";
+import filehider from "../../assets/data.png";
+import website from "../../assets/website.png";
 import ProjectCard from "../../common/ProjectCard";
 import styles from "./ProjectStyles.module.css";
 function Projects() {
@@ -10,22 +10,22 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard
-          src={viberr}
+          src={blog}
           link="https://github.com/RaHuLShArMa-1403/Mern-BlogProject"
-          h3="Blog App"
-          p="Interactive Blog App"
+          h3="Interactive Blog App"
+          p="MERN STACK"
         />
         <ProjectCard
-          src={freshBurger}
+          src={filehider}
           link="https://github.com/RaHuLShArMa-1403/FileSheild"
-          h3="fileHider"
-          p="java fileHider"
+          h3="File Hider"
+          p="Java, SQL, DBMS "
         />
         <ProjectCard
-          src={hipsster}
+          src={website}
           link="https://github.com/RaHuLShArMa-1403/"
-          h3="portfolio"
-          p="my-introduction"
+          h3="JobEx"
+          p="HTML, CSS, JavaScript"
         />
       </div>
     </section>
