@@ -18,14 +18,14 @@ function Projects() {
         <ProjectCard
           src={freshBurger}
           link="https://github.com/RaHuLShArMa-1403/FileSheild"
-          h3="freshBurger"
-          p="burger"
+          h3="fileHider"
+          p="java fileHider"
         />
         <ProjectCard
           src={hipsster}
           link="https://github.com/RaHuLShArMa-1403/"
-          h3="hipsster"
-          p="glasses"
+          h3="portfolio"
+          p="my-introduction"
         />
       </div>
     </section>
