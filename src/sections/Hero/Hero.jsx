@@ -40,7 +40,7 @@ function Hero() {
           <br />
           Sharma
         </h1>
-        <h2>Frontend Developer</h2>
+        <h2>Software Developer</h2>
         <span>
           <a href="https://twitter.com/_i_Rahul_" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
@@ -53,8 +53,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern React web apps for commercial
-          businesses.
+          With a passion for Developing Websites and Apps and Contributing Myself in Coding Industry
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
